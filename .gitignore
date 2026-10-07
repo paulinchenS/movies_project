@@ -1,0 +1,20 @@
+# virtual environments
+.venv/
+venv/
+env/
+
+# raw data
+data/raw/
+
+# python
+__pycache__
+*.py[cod]
+
+# jupyter notebooks
+.ipynb_checkpoints/
+
+# environment secrets
+.env
+
+# OS files
+Thumbs.db

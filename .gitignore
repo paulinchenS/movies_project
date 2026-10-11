@@ -6,6 +6,9 @@ env/
 # raw data
 data/raw/
 
+# cleaned data
+data/cleaned/
+
 # python
 __pycache__
 *.py[cod]
